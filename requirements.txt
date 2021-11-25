@@ -25,7 +25,7 @@ redis
 pandas
 plotly
 tabulate
-tensorflow
+# tensorflow
 awscli
 torch
 pytz
